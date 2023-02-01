@@ -2,7 +2,7 @@ PATH
   remote: .././
   specs:
     carmen-rails (1.0.0)
-      carmen (~> 1.0.0)
+      carmen
       rails
 
 GEM
